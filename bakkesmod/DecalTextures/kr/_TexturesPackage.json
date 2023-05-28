@@ -1,0 +1,46 @@
+{
+	"KR Black Octane": {
+		"BodyID": 23,
+		"SkinID": 1,
+		"Chassis": {
+			"Diffuse": "../octane_krb_chassis.png"
+		},
+		"Body": {
+			"Diffuse": "octane_krb_body.png",
+			"Skin": "octane_krb_mask.png"
+		}
+	},
+	"KR Black Fennec": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "../fennec_chassis.png"
+		},
+		"Body": {
+			"Diffuse": "fennec_krb_body.png",
+			"Skin": "fennec_krb_mask.png"
+		}
+	},
+	"KR White Octane": {
+		"BodyID": 23,
+		"SkinID": 1,
+		"Chassis": {
+			"Diffuse": "../octane_krw_chassis.png"
+		},
+		"Body": {
+			"Diffuse": "octane_krw_body.png",
+			"Skin": "octane_krw_mask.png"
+		}
+	},
+	"KR White Fennec": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "../fennec_chassis.png"
+		},
+		"Body": {
+			"Diffuse": "fennec_krw_body.png",
+			"Skin": "fennec_krw_mask.png"
+		}
+	}
+}

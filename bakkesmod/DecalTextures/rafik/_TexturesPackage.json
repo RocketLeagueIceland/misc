@@ -1,0 +1,13 @@
+{
+	"Rafík Fennec": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "fennec_rafik_chassis.png"
+		},
+		"Body": {
+			"Diffuse": "fennec_rafik_body.png",
+			"Skin": "fennec_rafik_mask.png"
+		}
+	}
+}

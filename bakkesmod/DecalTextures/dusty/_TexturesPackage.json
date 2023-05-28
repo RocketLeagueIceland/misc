@@ -1,0 +1,24 @@
+{
+	"Dusty Octane": {
+		"BodyID": 23,
+		"SkinID": 1,
+		"Chassis": {
+			"Diffuse": "../octane_chassis.png"
+		},
+		"Body": {
+			"Diffuse": "octane_dusty_body.png",
+			"Skin": "../octane_mask.png"
+		}
+	},
+	"Dusty Fennec": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "../fennec_chassis.png"
+		},
+		"Body": {
+			"Diffuse": "fennec_dusty_body.png",
+			"Skin": "../fennec_mask.png"
+		}
+	}
+}

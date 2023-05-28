@@ -1,0 +1,26 @@
+{
+	"Somnio Fennec": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "fennec_somnio_chassis.png",
+			"mask": "fennec_somnio_mask.png"
+		},
+		"Body": {
+			"Diffuse": "fennec_somnio_body.png",
+			"Skin": "fennec_somnio_mask.png"
+		}
+	},
+	"Somnio Fennec Old": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "fennec_somnio_chassis.png",
+			"mask": "fennec_somnio_mask.png"
+		},
+		"Body": {
+			"Diffuse": "fennec_somnio_old_body.png",
+			"Skin": "fennec_somnio_mask.png"
+		}
+	}
+}

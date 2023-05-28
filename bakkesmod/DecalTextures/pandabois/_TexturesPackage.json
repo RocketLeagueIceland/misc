@@ -1,0 +1,13 @@
+{
+	"Pandabois Octane": {
+		"BodyID": 23,
+		"SkinID": 1,
+		"Chassis": {
+			"Diffuse": "octane_pandabois_chassis.png"
+		},
+		"Body": {
+			"Diffuse": "octane_pandabois_body.png",
+			"Skin": "../octane_mask.png"
+		}
+	}
+}

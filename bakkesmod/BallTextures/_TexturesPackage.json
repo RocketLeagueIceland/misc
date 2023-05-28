@@ -1,0 +1,12 @@
+{
+    "RLIS": {
+        "Diffuse": "RLIS_Ball.png",
+        "Mask": "",
+        "Normal": ""
+    },
+    "TURF": {
+        "Diffuse": "Turf_Ball.png",
+        "Mask": "",
+        "Normal": ""
+    }
+}

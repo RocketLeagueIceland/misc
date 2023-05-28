@@ -1,0 +1,13 @@
+{
+	"Fylkir Octane": {
+		"BodyID": 23,
+		"SkinID": 1,
+		"Chassis": {
+			"Diffuse": "../octane_fylkir_chassis.png"
+		},
+		"Body": {
+			"Diffuse": "octane_fylkir_body.png",
+			"Skin": "../octane_mask.png"
+		}
+	}
+}

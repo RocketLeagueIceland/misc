@@ -1,0 +1,13 @@
+{
+	"Pushin P. Fennec": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "fennec_pp_chassis.png"
+		},
+		"Body": {
+			"Diffuse": "fennec_pp_body.png",
+			"Skin": "fennec_pp_mask.png"
+		}
+	}
+}

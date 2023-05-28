@@ -1,0 +1,13 @@
+{
+	"RLÍS Octane": {
+		"BodyID": 23,
+		"SkinID": 1,
+		"Chassis": {
+			"Diffuse": "octane_rlis_chassis.png"
+		},
+		"Body": {
+			"Diffuse": "octane_rlis_body.png",
+			"Skin": "../octane_mask.png"
+		}
+	}
+}

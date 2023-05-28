@@ -1,0 +1,13 @@
+{
+	"Vættir Fennec": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "fennec_vaettir_chassis.png"
+		},
+		"Body": {
+			"Diffuse": "fennec_vaettir_body.png",
+			"Skin": "fennec_vaettir_mask.png"
+		}
+	}
+}

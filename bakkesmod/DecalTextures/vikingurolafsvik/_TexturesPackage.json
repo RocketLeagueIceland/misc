@@ -1,0 +1,13 @@
+{
+	"Þór Octane": {
+		"BodyID": 23,
+		"SkinID": 1,
+		"Chassis": {
+			"Diffuse": "../octane_chassis.png"
+		},
+		"Body": {
+			"Diffuse": "octane_vikingurolafsvik_body.png",
+			"Skin": "../octane_mask.png"
+		}
+	}
+}

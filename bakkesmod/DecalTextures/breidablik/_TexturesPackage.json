@@ -1,0 +1,13 @@
+{
+	"Breidablik Fennec": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "../fennec_chassis.png"
+		},
+		"Body": {
+			"Diffuse": "fennec_breidablik_body.png",
+			"Skin": "../fennec_mask.png"
+		}
+	}
+}
